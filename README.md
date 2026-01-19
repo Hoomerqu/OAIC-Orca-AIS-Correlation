@@ -34,3 +34,6 @@ Wir brauchen jetzt die IT-Kompetenz, um die Datenbasis zu schaffen.  Es wär
 Motivation / About the Initiator 
 Ich bin Segler und verbringe viel Zeit in den betroffenen Regionen wie Huelva und der Algarve. Ich habe die Eskalation vor Ort miterlebt: die Verzweiflung der Segler, die Hilflosigkeit der Behörden und die zunehmende Gewalt gegen die geschützten Orcas durch gefährliche Abwehrmythen. Außerdem gibt es Hilfs- und Tierschutzorganisationen die Spenden mit Angst sammeln was ich nicht gut heißen kann. 
 Als ich bemerkte, dass wir zwar über jeden Vorfall diskutieren, aber niemand den statistischen „Nenner“ (die AIS-Grundgesamtheit) kennt, war für mich klar: Wir brauchen keine Anekdoten, sondern Mathematik. Ich bringe das Domänenwissen und die Vernetzung in die Segelszene ein, um diesem Projekt eine solide Basis zu geben.
+
+Für alle die daran mitarbeiten: Das ist mein erstes Github-äh Ding und bin auf eure Hilfe und Unterstützung angewisßen. Ich frage natürlich die KI und kann nur hoffen dass diese Ausgaben einigermaßen richtig sind. Natürlich setzte ich mich damit so intensiv wie ich kann ausaeinander. 
+Danke
