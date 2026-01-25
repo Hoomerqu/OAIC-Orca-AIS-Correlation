@@ -37,3 +37,9 @@ Als ich bemerkte, dass wir zwar über jeden Vorfall diskutieren, aber niemand de
 
 Für alle die daran mitarbeiten: Das ist mein erstes Github-äh Ding und bin auf eure Hilfe und Unterstützung angewisßen. Ich frage natürlich die KI und kann nur hoffen dass diese Ausgaben einigermaßen richtig sind. Natürlich setzte ich mich damit so intensiv wie ich kann ausaeinander. 
 Danke
+
+= further reading =
+* https://en.wikipedia.org/wiki/Orca_attacks
+* https://en.wikipedia.org/wiki/Iberian_orca_attacks
+* [Ferguson, Steven H.; Higdon, Jeff W.; Westdal, Kristin H. (January 30, 2012). "Prey items and predation behavior of killer whales (Orcinus orca) in Nunavut, Canada based on Inuit hunter interviews". Aquatic Biosystems. 8 (1): 3. doi:10.1186/2046-9063-8-3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3310332)
+* [Willoughby, Amy L.; Stimmelmayr, Raphaela; Brower, Amelia A.; Clarke, Janet T.; Ferguson, Megan C. (April 1, 2022). "Gray whale (Eschrichtius robustus) and killer whale (Orcinus orca) co-occurrence in the eastern Chukchi Sea, 2009–2019: evidence from gray whale carcasses observed during aerial surveys". Polar Biology. 45 (4): 737–748. doi:10.1007/s00300-022-03015-6](https://doi.org/10.1007/s00300-022-03015-6)
